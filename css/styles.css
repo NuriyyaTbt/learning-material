@@ -35,6 +35,11 @@ footer .mdl-layout__header-row{
 footer p{
     margin-bottom:0;
 }
+.mdl-button{
+    background: rgb(21, 16, 5);
+    color:#fff !important;
+    font-weight:bold;
+}
 @media screen and (max-width:576px){
     .custom_mdl_layout{
         padding-top: 56px;
